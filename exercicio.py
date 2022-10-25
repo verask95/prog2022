@@ -1,9 +1,9 @@
-A = 2.5
-B = 9
+A = float(input('VALOR DE A: '))
+B = float(input('VALOR DE B: '))
 
-NOME = 'ANA'
+NOME = str(input('NOME: '))
 
-PROF = 'PROFESSOR'
+PROF = str(input('PROFISSÃO: '))
 
 
 a = (A + 1 >= (B ** (1/2))) or (NOME != 'ANA')
