@@ -1,4 +1,4 @@
-##calculo de notas
+##calculo de média ponderada
 
 n1 = int (input ('Informe a sua primeira nota:'))
 
