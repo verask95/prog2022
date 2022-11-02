@@ -1,9 +1,12 @@
 ##Dados do cilindro##
 
-input = 5
+raio = input('Informe o raio:')
 
-altura = 3
+altura = input('Informe a altura:')
 
+raio = int(raio)
+
+altura = int(altura)
 
 ##Calcule volume
 
