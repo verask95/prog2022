@@ -1,6 +1,6 @@
 ##Dados do cilindro##
 
-raio = 5
+input = 5
 
 altura = 3
 
