@@ -1,4 +1,6 @@
 nome = input('informe seu nome:')
 
-print(nome)
+print(f'O Nome Digitado foi;{nome}')
+
+
 
