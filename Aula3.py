@@ -1,6 +1,6 @@
 ##calculo de média ponderada
 
-n1 = int(input('Informe a sua primeira nota:'))
+n1 = int(input ('Informe a sua primeira nota:'))
 
 n2 = int(input('Informe a sua segunda nota:'))
 
