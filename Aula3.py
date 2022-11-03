@@ -11,4 +11,4 @@ if media >= 60:
 elif media < 20:
     print('Você esta reprovado!')
 else:
-    print('Prova final!')
+    print('Você fará a prova final!')
