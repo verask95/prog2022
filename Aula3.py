@@ -6,5 +6,9 @@ n2 = int(input('Informe a sua segunda nota:'))
 
 media = (n1 *2 + n2 *3) /5
 
-print(f'A sua média é {media}')
-
+if media >= 60:
+    print('Você esta aprovado!')
+elif media < 20:
+    print('Você esta reprovado!')
+else:
+    print('Prova final!')
